@@ -1,10 +1,36 @@
 {
   "version": "1",
-  "generatedAt": "2026-06-05T14:41:06.17852814Z",
+  "generatedAt": "2026-06-05T14:41:16.935876866Z",
   "repoOwner": "Yvign",
   "repoName": "express",
   "branch": "master",
   "nodes": [
+    {
+      "uuid": "e8582fb5-e022-450a-8ad5-704a9cfa1636",
+      "type": "file",
+      "name": ".codeatlas",
+      "sha": "bc909905c731612cbdb60c972b4b0c915d894247",
+      "path": "",
+      "description": "",
+      "note": "",
+      "pos": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "uuid": "05b8188e-f2f8-4e3e-b2fb-bc5f335eed20",
+      "type": "file",
+      "name": "graph.json",
+      "sha": "634295a1bdfda63e396bb5901ec8e30365499bfb",
+      "path": "",
+      "description": "",
+      "note": "",
+      "pos": {
+        "x": 0,
+        "y": 0
+      }
+    },
     {
       "uuid": "6a7bd805-5a16-4e46-93db-be97f5527133",
       "type": "file",
@@ -578,7 +604,7 @@
       }
     },
     {
-      "uuid": "52598ba4-a7d6-44d0-98f2-73db8f0e5349",
+      "uuid": "e1bab2aa-bdeb-480f-b7c3-006ee9e85fbb",
       "type": "file",
       "name": "footer.html",
       "sha": "308b1d01b6ca1e7ab1b1fa896e6a8497bbcd1a37",
@@ -695,7 +721,7 @@
       }
     },
     {
-      "uuid": "ceb73998-78b6-4908-869f-a79f86da1bd3",
+      "uuid": "e1bab2aa-bdeb-480f-b7c3-006ee9e85fbb",
       "type": "file",
       "name": "footer.ejs",
       "sha": "308b1d01b6ca1e7ab1b1fa896e6a8497bbcd1a37",
@@ -2658,7 +2684,7 @@
       }
     },
     {
-      "uuid": "2902bcf4-f79b-410c-a68b-1c5c74111b21",
+      "uuid": "a0d05763-7889-4c20-92df-0dd3bceae810",
       "type": "file",
       "name": ".name",
       "sha": "fa66f37ff2170afebb34dd2da5a1ba69d3657270",
@@ -2723,7 +2749,7 @@
       }
     },
     {
-      "uuid": "f8200542-edcf-4c6a-b7af-984515484f15",
+      "uuid": "4bcb32dc-5250-4d4f-abb5-85a164ad9aad",
       "type": "file",
       "name": "broken.send",
       "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
@@ -2749,7 +2775,7 @@
       }
     },
     {
-      "uuid": "fcdce5a5-1119-4a35-860e-cdb159b2e87a",
+      "uuid": "02239448-f187-4ef4-ba45-17db8c098e50",
       "type": "file",
       "name": "name.tmpl",
       "sha": "0c49bf6be782dc48660753add9ba25a731d78c50",
@@ -2762,7 +2788,7 @@
       }
     },
     {
-      "uuid": "ccaeb570-43f3-4776-b3a5-fe0a30f9ce1d",
+      "uuid": "842a28a7-eff4-4eac-bd6a-afb6c8468b5b",
       "type": "file",
       "name": "user.tmpl",
       "sha": "67ef510227bf0ba5bd7c7bacb815f1b146c94a21",
@@ -2788,7 +2814,7 @@
       }
     },
     {
-      "uuid": "9426acbb-27e0-4626-b2a4-25aea0ee6503",
+      "uuid": "4bcb32dc-5250-4d4f-abb5-85a164ad9aad",
       "type": "file",
       "name": "empty.txt",
       "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
@@ -3660,6 +3686,11 @@
     }
   ],
   "edges": [
+    {
+      "source": ".codeatlas",
+      "target": ".codeatlas/graph.json",
+      "type": "contains"
+    },
     {
       "source": ".github",
       "target": ".github/dependabot.yml",
