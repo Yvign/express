@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-06-05T15:32:22.799024271Z",
+  "generatedAt": "2026-06-06T10:04:01.838075501Z",
   "repoOwner": "Yvign",
   "repoName": "express",
   "branch": "master",
@@ -9,59 +9,7 @@
       "uuid": "e8582fb5-e022-450a-8ad5-704a9cfa1636",
       "type": "file",
       "name": ".codeatlas",
-      "sha": "e4dc5b41998b873b9d799b0c6f3e674add9df9e6",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "05b8188e-f2f8-4e3e-b2fb-bc5f335eed20",
-      "type": "file",
-      "name": "graph.json",
-      "sha": "15622cc76c845dc579e0722e2312557a0d58ab17",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "6a7bd805-5a16-4e46-93db-be97f5527133",
-      "type": "file",
-      "name": ".editorconfig",
-      "sha": "12cf11112327ddabb3bec33ec49a60f9fe18ca48",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "84ab677b-e5c0-4579-81e0-23ef60b6e7c8",
-      "type": "file",
-      "name": ".eslintignore",
-      "sha": "62562b74a3b5a79e82ca417b02e0f597d85f5e2f",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "7d7296a9-6ab0-43a5-8af0-a83694306287",
-      "type": "file",
-      "name": ".eslintrc.yml",
-      "sha": "f9359bf289293a17195e1948c5798103b294ab2c",
+      "sha": "d698dcb22bc47bf05b2d1499ab9bb5406a8a8534",
       "path": "",
       "description": "",
       "note": "",
@@ -84,19 +32,6 @@
       }
     },
     {
-      "uuid": "d77dee8d-f675-4293-849c-a298c8580cf9",
-      "type": "file",
-      "name": "dependabot.yml",
-      "sha": "a6096a49b45192e7c5ac5f0f2bdcb17d0b18d1b1",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "66a93773-f223-45ba-b93e-a5afbff3e0d2",
       "type": "file",
       "name": "workflows",
@@ -110,140 +45,10 @@
       }
     },
     {
-      "uuid": "c785e0f3-d222-4cf8-b945-86d6f539be54",
-      "type": "file",
-      "name": "ci.yml",
-      "sha": "0695bd85747d822825311eaca5b46e5457edc878",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "30171610-a3a5-460d-9f39-edd84eb93f20",
-      "type": "file",
-      "name": "codeql.yml",
-      "sha": "85895a0451993f2a7570829fa4a1ebd6efbd97f4",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "07b8304b-34f9-4648-88f2-5ec7b52ccf65",
-      "type": "file",
-      "name": "legacy.yml",
-      "sha": "408227ce25221a59d6119f67865841a903daeab1",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "4ab99a1c-faef-4950-baf1-6b8105f84ab8",
-      "type": "file",
-      "name": "scorecard.yml",
-      "sha": "7eb2785aa9954dc6b4f105f52ba78d7c52d0ea84",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "b09ae120-9f9a-4c32-bdd3-c0e858a85904",
-      "type": "file",
-      "name": ".gitignore",
-      "sha": "768368cd652ffc47c8df6ed98591cd571b17e2b0",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "aae0800e-a74b-4a95-b862-6915c275cd4b",
-      "type": "file",
-      "name": ".npmrc",
-      "sha": "bd684249468ed8ddf97747eff63cfc9fdc4a162a",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "f1620443-487f-4e8b-bf9f-0418ce71c2bc",
-      "type": "file",
-      "name": "History.md",
-      "sha": "5edd589a78ffdcd5e5c59312facd8dfa961266ea",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "93f52f06-5482-4927-94d8-b06c0ccbd700",
-      "type": "file",
-      "name": "LICENSE",
-      "sha": "aa927e44e31d486f807634887662efa39256bf84",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "fd30c267-3712-43da-8d2e-478c07162173",
-      "type": "file",
-      "name": "Readme.md",
-      "sha": "3fb257a8d4a001e9c56f0a252c97a2fe283eec61",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "fe6f6238-7493-4ed4-92b9-823bd29eb1cf",
       "type": "file",
       "name": "examples",
       "sha": "53c70d1af74e10c5413e178692c0ed8afb407d75",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "42564a53-50c5-4b05-bd8b-502c933ba49e",
-      "type": "file",
-      "name": "README.md",
-      "sha": "bd1f1f6310fb49a4bcc00968b4a934140d667839",
       "path": "",
       "description": "",
       "note": "",
@@ -283,45 +88,6 @@
       "type": "file",
       "name": "views",
       "sha": "35ce33fd7e79d2a85b9cbec99f653cf64cb97b6e",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "4c34a4b8-5a41-4d33-be33-832660a21e95",
-      "type": "file",
-      "name": "foot.ejs",
-      "sha": "b605728ee26a9b0a7be60e81d23f660a87893ebb",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "e9a7ae37-4743-446c-830e-1a22488f0243",
-      "type": "file",
-      "name": "head.ejs",
-      "sha": "c623b5cc8d1d81b6e55130569bfca279ccdcf3d9",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "13fd5bc0-3182-4cfe-bf4d-7d8c8e6f92cf",
-      "type": "file",
-      "name": "login.ejs",
-      "sha": "181c36caf7a135b7e3d4bb7c35287b479e1bf1c9",
       "path": "",
       "description": "",
       "note": "",
@@ -461,49 +227,10 @@
       }
     },
     {
-      "uuid": "9726b78e-327f-4523-a602-511c57f1039f",
-      "type": "file",
-      "name": "CCTV大赛上海分赛区.txt",
-      "sha": "3b049c3168dd60ef78657cc2ee1a87c3fa69c1df",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "d56460e8-ce13-436e-a164-09aa645ce919",
-      "type": "file",
-      "name": "amazing.txt",
-      "sha": "c478ec5691fe387035b7e806c331fae295bd5899",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "05455e5c-aa5a-4acd-8dd1-a995d56acf29",
       "type": "file",
       "name": "notes",
       "sha": "912b4e0cb0f8ea584b1b08a847231d07ec6f5899",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "090c753e-f816-4f89-92b5-6723d8122a59",
-      "type": "file",
-      "name": "groceries.txt",
-      "sha": "fb43877709cd0ceac860fb477b547cb6ede4d7dd",
       "path": "",
       "description": "",
       "note": "",
@@ -578,62 +305,10 @@
       }
     },
     {
-      "uuid": "b7ca59b8-63ed-4129-bfde-9af7955fa09b",
-      "type": "file",
-      "name": "style.css",
-      "sha": "db60b89fe6c22a6057220c3285b7d3f29dc30232",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "b1316722-2c93-4af4-ad0b-940fb1fba026",
       "type": "file",
       "name": "views",
       "sha": "372de59fa0c9f149983640612743546318e0c6a3",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "e1bab2aa-bdeb-480f-b7c3-006ee9e85fbb",
-      "type": "file",
-      "name": "footer.html",
-      "sha": "308b1d01b6ca1e7ab1b1fa896e6a8497bbcd1a37",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "8050d527-cde9-4625-acf6-985035d6a30d",
-      "type": "file",
-      "name": "header.html",
-      "sha": "c642a15f639df574077e78969ea65187cfd58350",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "019d4309-981d-4f1a-8e5f-080e955ce7c6",
-      "type": "file",
-      "name": "users.html",
-      "sha": "dad24625e6521df9a14cb25dea4521964427701f",
       "path": "",
       "description": "",
       "note": "",
@@ -673,71 +348,6 @@
       "type": "file",
       "name": "views",
       "sha": "e3b87e711d1970fe1562781d541eabbb11223c23",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "472a3dcf-5268-4f14-b2b3-337f3b63abd4",
-      "type": "file",
-      "name": "404.ejs",
-      "sha": "d992ce022946174089e8123869adf2472b341e25",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "fe1b9e34-f29a-40eb-9067-5d100f5b4749",
-      "type": "file",
-      "name": "500.ejs",
-      "sha": "c9d855f80446a2ad838193ee7c1bdf7deb795a3c",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "bf232add-9b63-4ec7-a3ef-42a5124c080a",
-      "type": "file",
-      "name": "error_header.ejs",
-      "sha": "b2451ab32410e7f4c314105b6d29712da97ad6b3",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "e1bab2aa-bdeb-480f-b7c3-006ee9e85fbb",
-      "type": "file",
-      "name": "footer.ejs",
-      "sha": "308b1d01b6ca1e7ab1b1fa896e6a8497bbcd1a37",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "b03453ba-9744-49f1-8638-ad04dc9542c2",
-      "type": "file",
-      "name": "index.ejs",
-      "sha": "ae8c92820a719beaf14946f401a9956508c44732",
       "path": "",
       "description": "",
       "note": "",
@@ -829,19 +439,6 @@
       "type": "file",
       "name": "views",
       "sha": "3a4b098fff76ed350526f5d0279951f60c80d911",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "5aa55c5d-3919-4d87-979d-6a05ff33bdfa",
-      "type": "file",
-      "name": "index.md",
-      "sha": "b0b2e7176ff5206793ef4390f9411eecc94cf9f3",
       "path": "",
       "description": "",
       "note": "",
@@ -1007,32 +604,6 @@
       }
     },
     {
-      "uuid": "b70b9bd3-f97b-45a8-a1bf-fc664330b6d6",
-      "type": "file",
-      "name": "edit.ejs",
-      "sha": "655666e01091ed7509872f8f6769fdd2d91907e2",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "807119da-c8c5-40d9-b9d7-4d0cf8b1a2e8",
-      "type": "file",
-      "name": "show.ejs",
-      "sha": "7e1e338e7d8ab51a99c5fd1f0295f0b7dc7474cf",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "c99f35ad-9db3-4dda-bd20-f195bf78f5a2",
       "type": "file",
       "name": "user-pet",
@@ -1089,45 +660,6 @@
       "type": "file",
       "name": "views",
       "sha": "cdd99f98adf9ac7153a4a7ba4a9a337bba4b613d",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "b3161c08-ac76-4ee1-b8aa-448d1ddf7393",
-      "type": "file",
-      "name": "edit.hbs",
-      "sha": "2be7ddc4a94fec8babdf32822c85ff2f12153efb",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "6f6d1910-89a0-42ce-baed-52101ab9d75b",
-      "type": "file",
-      "name": "list.hbs",
-      "sha": "448c66f8c78907d6d665d87bf2e7561a1f8bea99",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "d99ca692-dab8-4639-834d-99f13eb01b4f",
-      "type": "file",
-      "name": "show.hbs",
-      "sha": "f3fccfe046be5027a4eb656ef6f2f20f853ed1c7",
       "path": "",
       "description": "",
       "note": "",
@@ -1202,49 +734,10 @@
       }
     },
     {
-      "uuid": "df60a137-c95e-4f59-bd27-1b21474a3df1",
-      "type": "file",
-      "name": "style.css",
-      "sha": "8a23f9d41c4ed50cd2b74d11dab43aecfecd7b55",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "800d86e0-8fb4-40ae-83a8-2d67e94031b8",
       "type": "file",
       "name": "views",
       "sha": "5d53dd2274c3b235217993d3502bc35e8e67b2fa",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "98298be3-f7da-4fc7-b9fc-682a65629a79",
-      "type": "file",
-      "name": "404.ejs",
-      "sha": "21a86f8a653c69331ddc2a62f0c066803e03e668",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "825769e3-b8cc-4312-80e6-0123b0b380f7",
-      "type": "file",
-      "name": "5xx.ejs",
-      "sha": "190f580543af2a0b9a11be9330299be6fc10fa81",
       "path": "",
       "description": "",
       "note": "",
@@ -1436,19 +929,6 @@
       }
     },
     {
-      "uuid": "c5646169-03dc-40ff-aa67-50b034561433",
-      "type": "file",
-      "name": "style.css",
-      "sha": "d699784c60df6d2c77aadf08b79b62f30319b872",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "2dea3971-77ba-4fae-a7ab-74ebcfd5f2e6",
       "type": "file",
       "name": "site.js",
@@ -1488,45 +968,6 @@
       }
     },
     {
-      "uuid": "e1bab2aa-bdeb-480f-b7c3-006ee9e85fbb",
-      "type": "file",
-      "name": "footer.ejs",
-      "sha": "308b1d01b6ca1e7ab1b1fa896e6a8497bbcd1a37",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "8b485aa9-0bb1-429f-a9b2-394258d638ea",
-      "type": "file",
-      "name": "header.ejs",
-      "sha": "4300325e0a197fa9bc95429e81f2ca1cef7b3dc9",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "047a6654-9e13-45da-a310-52a9f1e4950e",
-      "type": "file",
-      "name": "index.ejs",
-      "sha": "7fd75879c117307728d98f6a476bde4975fd0193",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "9251466c-eec6-46a7-a5bd-b6c7471bbdb4",
       "type": "file",
       "name": "posts",
@@ -1540,62 +981,10 @@
       }
     },
     {
-      "uuid": "4630a4a5-7f46-4fb4-965b-30a17c3f1a1d",
-      "type": "file",
-      "name": "index.ejs",
-      "sha": "cbcebffebf129a52e56d8f9f63b6b1c89b340c96",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "3768c7e1-0a8c-4c1c-ba36-a2dda0dddaf7",
       "type": "file",
       "name": "users",
       "sha": "8d4511f05b256a98a0ff7d604dd515a4209073e4",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "429ebbbc-9a1b-418f-abce-e925248ddacb",
-      "type": "file",
-      "name": "edit.ejs",
-      "sha": "6df78a953a3b2cd5d17403612dcdc2c50c272269",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "4d099c06-9994-4b0c-a856-b80ed4c1b483",
-      "type": "file",
-      "name": "index.ejs",
-      "sha": "949412a21e192e04dd1a9f2eb1e47f9e01dc38e9",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "5dd9726d-85a2-4d24-b6c2-b424db971a07",
-      "type": "file",
-      "name": "view.ejs",
-      "sha": "457bd5399fd7dea44ee36baf541a7ce40e250d30",
       "path": "",
       "description": "",
       "note": "",
@@ -1648,19 +1037,6 @@
       "type": "file",
       "name": "client.js",
       "sha": "cd43faf71e047bd6858b07ee4e3a2e14ba66da5b",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "3fe039c2-22a3-44df-b653-2d2684b0fa77",
-      "type": "file",
-      "name": "index.html",
-      "sha": "7353644ba63870fef4b38e0be72d9138da229845",
       "path": "",
       "description": "",
       "note": "",
@@ -1752,32 +1128,6 @@
       "type": "file",
       "name": "css",
       "sha": "89fcd426c5127970dfb673c345005b790ef43f2e",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "76be17c5-c0be-4cc9-80dc-51f3f0fc98f1",
-      "type": "file",
-      "name": "style.css",
-      "sha": "7fc28f96c468b7350853ae6e08e2b37a536536a5",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "dbb50c76-a1f3-423a-b303-a3c2521b9836",
-      "type": "file",
-      "name": "hello.txt",
-      "sha": "2b31011cf9de6c82d52dc386cd7d1a9be83188c1",
       "path": "",
       "description": "",
       "note": "",
@@ -1930,19 +1280,6 @@
       }
     },
     {
-      "uuid": "a00a2482-ff5c-4821-82d3-4f9da255ee22",
-      "type": "file",
-      "name": "index.ejs",
-      "sha": "287f34bc284fa2edbdc9af29eb566a445de536b7",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "edc37a6c-da0d-4811-b989-e536f8e245df",
       "type": "file",
       "name": "web-service",
@@ -2064,19 +1401,6 @@
       "type": "file",
       "name": "view.js",
       "sha": "d66b4a2d89cda638ca1dcbba3da090e631175fc1",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "f25cf063-23bd-4021-a3ff-1a78b393f467",
-      "type": "file",
-      "name": "package.json",
-      "sha": "16012b61c4f84ff598fb87c9a24b2213e5324640",
       "path": "",
       "description": "",
       "note": "",
@@ -2671,49 +1995,10 @@
       }
     },
     {
-      "uuid": "b40a05ac-9a1e-40eb-93b2-fab7a50c56bd",
-      "type": "file",
-      "name": "% of dogs.txt",
-      "sha": "3a4d1342e8b1c5bb9463e55a66bdd67f5eb91bd4",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "a0d05763-7889-4c20-92df-0dd3bceae810",
-      "type": "file",
-      "name": ".name",
-      "sha": "fa66f37ff2170afebb34dd2da5a1ba69d3657270",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "ce611968-0a1d-4fe0-bdbb-8ce3451707a4",
       "type": "file",
       "name": "blog",
       "sha": "278e4fb514549afa93ae568e0ba106afaefed1bc",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "7d0f26ec-3d36-4d17-a91f-afb59b0903ba",
-      "type": "file",
-      "name": "index.html",
-      "sha": "bcc6b1822ffa761a2b0594fde6314d8c1e02a5d1",
       "path": "",
       "description": "",
       "note": "",
@@ -2736,88 +2021,10 @@
       }
     },
     {
-      "uuid": "8ae3f7ec-a32a-468b-a302-337470f37597",
-      "type": "file",
-      "name": "index.tmpl",
-      "sha": "a9a2a3b30531cafeddde0c1de93e5fdae00789b2",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "4bcb32dc-5250-4d4f-abb5-85a164ad9aad",
-      "type": "file",
-      "name": "broken.send",
-      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "6118f14f-8bd6-4ced-a217-7ccf92f6da89",
       "type": "file",
       "name": "default_layout",
       "sha": "355e27b0cf5c3a16e649f163c2f498d2e7791823",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "02239448-f187-4ef4-ba45-17db8c098e50",
-      "type": "file",
-      "name": "name.tmpl",
-      "sha": "0c49bf6be782dc48660753add9ba25a731d78c50",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "842a28a7-eff4-4eac-bd6a-afb6c8468b5b",
-      "type": "file",
-      "name": "user.tmpl",
-      "sha": "67ef510227bf0ba5bd7c7bacb815f1b146c94a21",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "71cd8244-5c00-44af-99e4-8df9aa264e85",
-      "type": "file",
-      "name": "email.tmpl",
-      "sha": "8a2cb77aeb45e9f0744aef9fd618c831fe5ef1e5",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "4bcb32dc-5250-4d4f-abb5-85a164ad9aad",
-      "type": "file",
-      "name": "empty.txt",
-      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
       "path": "",
       "description": "",
       "note": "",
@@ -2840,75 +2047,10 @@
       }
     },
     {
-      "uuid": "c54e4b28-9b60-41df-beae-790968849007",
-      "type": "file",
-      "name": "user.tmpl",
-      "sha": "e9c8684ebbb92cfcf6dbab5369761e9dd1644d4a",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "02239448-f187-4ef4-ba45-17db8c098e50",
-      "type": "file",
-      "name": "name.tmpl",
-      "sha": "0c49bf6be782dc48660753add9ba25a731d78c50",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "a0d05763-7889-4c20-92df-0dd3bceae810",
-      "type": "file",
-      "name": "name.txt",
-      "sha": "fa66f37ff2170afebb34dd2da5a1ba69d3657270",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "9a977263-8083-4709-94b6-fb6b4fe4bde1",
-      "type": "file",
-      "name": "nums.txt",
-      "sha": "e2e107ac61ac259b87c544f6e7a4eb03422c6c21",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "98b413db-17a7-43e0-beba-96a4f321168d",
       "type": "file",
       "name": "pets",
       "sha": "7f172b074b299bc8d2097ecd16c60ca989e22364",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "95018b68-9dfa-4a17-8853-56287cd6afe1",
-      "type": "file",
-      "name": "names.txt",
-      "sha": "91407a3e0487dd87ce1f6ba1f59bdc2093f54133",
       "path": "",
       "description": "",
       "note": "",
@@ -2931,101 +2073,10 @@
       }
     },
     {
-      "uuid": "4bcb32dc-5250-4d4f-abb5-85a164ad9aad",
-      "type": "file",
-      "name": ".gitkeep",
-      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "046e902b-0882-4f1c-9f1c-057583c6a8d0",
-      "type": "file",
-      "name": "todo.html",
-      "sha": "e7af6d7998d2b34480fd9b9b78c9290c9905b073",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "61c2f8cf-b1f4-4ef1-832c-0456f7769beb",
-      "type": "file",
-      "name": "todo.txt",
-      "sha": "8c3539d9461bd1c31c660541ecbad2ad489d08d1",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "e0a68182-827a-4941-8461-5a655c4961e2",
-      "type": "file",
-      "name": "user.html",
-      "sha": "f5b9962c5b721a6b6f59a9dcce9262fed35b0f85",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "842a28a7-eff4-4eac-bd6a-afb6c8468b5b",
-      "type": "file",
-      "name": "user.tmpl",
-      "sha": "67ef510227bf0ba5bd7c7bacb815f1b146c94a21",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
       "uuid": "8ef12a37-5486-4614-bc63-ad82a9e8300e",
       "type": "file",
       "name": "users",
       "sha": "331774803bd979b7fa137f5b7acc5c5482fa75c6",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "2df33f82-5b37-4fca-ad60-df261b68fc45",
-      "type": "file",
-      "name": "index.html",
-      "sha": "00a2db41f7524a37492bacd646025128e067b15f",
-      "path": "",
-      "description": "",
-      "note": "",
-      "pos": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "uuid": "a81b8e90-846b-41cf-a584-00d2eb84ea46",
-      "type": "file",
-      "name": "tobi.txt",
-      "sha": "9d9529d47d7d688d0de99f5d4ce12a487d31c7f8",
       "path": "",
       "description": "",
       "note": "",
@@ -3687,43 +2738,8 @@
   ],
   "edges": [
     {
-      "source": ".codeatlas",
-      "target": ".codeatlas/graph.json",
-      "type": "contains"
-    },
-    {
-      "source": ".github",
-      "target": ".github/dependabot.yml",
-      "type": "contains"
-    },
-    {
       "source": ".github",
       "target": ".github/workflows",
-      "type": "contains"
-    },
-    {
-      "source": ".github/workflows",
-      "target": ".github/workflows/ci.yml",
-      "type": "contains"
-    },
-    {
-      "source": ".github/workflows",
-      "target": ".github/workflows/codeql.yml",
-      "type": "contains"
-    },
-    {
-      "source": ".github/workflows",
-      "target": ".github/workflows/legacy.yml",
-      "type": "contains"
-    },
-    {
-      "source": ".github/workflows",
-      "target": ".github/workflows/scorecard.yml",
-      "type": "contains"
-    },
-    {
-      "source": "examples",
-      "target": "examples/README.md",
       "type": "contains"
     },
     {
@@ -3739,21 +2755,6 @@
     {
       "source": "examples/auth",
       "target": "examples/auth/views",
-      "type": "contains"
-    },
-    {
-      "source": "examples/auth/views",
-      "target": "examples/auth/views/foot.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/auth/views",
-      "target": "examples/auth/views/head.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/auth/views",
-      "target": "examples/auth/views/login.ejs",
       "type": "contains"
     },
     {
@@ -3808,22 +2809,7 @@
     },
     {
       "source": "examples/downloads/files",
-      "target": "examples/downloads/files/CCTV大赛上海分赛区.txt",
-      "type": "contains"
-    },
-    {
-      "source": "examples/downloads/files",
-      "target": "examples/downloads/files/amazing.txt",
-      "type": "contains"
-    },
-    {
-      "source": "examples/downloads/files",
       "target": "examples/downloads/files/notes",
-      "type": "contains"
-    },
-    {
-      "source": "examples/downloads/files/notes",
-      "target": "examples/downloads/files/notes/groceries.txt",
       "type": "contains"
     },
     {
@@ -3852,28 +2838,8 @@
       "type": "contains"
     },
     {
-      "source": "examples/ejs/public/stylesheets",
-      "target": "examples/ejs/public/stylesheets/style.css",
-      "type": "contains"
-    },
-    {
       "source": "examples/ejs",
       "target": "examples/ejs/views",
-      "type": "contains"
-    },
-    {
-      "source": "examples/ejs/views",
-      "target": "examples/ejs/views/footer.html",
-      "type": "contains"
-    },
-    {
-      "source": "examples/ejs/views",
-      "target": "examples/ejs/views/header.html",
-      "type": "contains"
-    },
-    {
-      "source": "examples/ejs/views",
-      "target": "examples/ejs/views/users.html",
       "type": "contains"
     },
     {
@@ -3889,31 +2855,6 @@
     {
       "source": "examples/error-pages",
       "target": "examples/error-pages/views",
-      "type": "contains"
-    },
-    {
-      "source": "examples/error-pages/views",
-      "target": "examples/error-pages/views/404.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/error-pages/views",
-      "target": "examples/error-pages/views/500.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/error-pages/views",
-      "target": "examples/error-pages/views/error_header.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/error-pages/views",
-      "target": "examples/error-pages/views/footer.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/error-pages/views",
-      "target": "examples/error-pages/views/index.ejs",
       "type": "contains"
     },
     {
@@ -3949,11 +2890,6 @@
     {
       "source": "examples/markdown",
       "target": "examples/markdown/views",
-      "type": "contains"
-    },
-    {
-      "source": "examples/markdown/views",
-      "target": "examples/markdown/views/index.md",
       "type": "contains"
     },
     {
@@ -4017,16 +2953,6 @@
       "type": "contains"
     },
     {
-      "source": "examples/mvc/controllers/pet/views",
-      "target": "examples/mvc/controllers/pet/views/edit.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/mvc/controllers/pet/views",
-      "target": "examples/mvc/controllers/pet/views/show.ejs",
-      "type": "contains"
-    },
-    {
       "source": "examples/mvc/controllers",
       "target": "examples/mvc/controllers/user-pet",
       "type": "contains"
@@ -4049,21 +2975,6 @@
     {
       "source": "examples/mvc/controllers/user",
       "target": "examples/mvc/controllers/user/views",
-      "type": "contains"
-    },
-    {
-      "source": "examples/mvc/controllers/user/views",
-      "target": "examples/mvc/controllers/user/views/edit.hbs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/mvc/controllers/user/views",
-      "target": "examples/mvc/controllers/user/views/list.hbs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/mvc/controllers/user/views",
-      "target": "examples/mvc/controllers/user/views/show.hbs",
       "type": "contains"
     },
     {
@@ -4092,23 +3003,8 @@
       "type": "contains"
     },
     {
-      "source": "examples/mvc/public",
-      "target": "examples/mvc/public/style.css",
-      "type": "contains"
-    },
-    {
       "source": "examples/mvc",
       "target": "examples/mvc/views",
-      "type": "contains"
-    },
-    {
-      "source": "examples/mvc/views",
-      "target": "examples/mvc/views/404.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/mvc/views",
-      "target": "examples/mvc/views/5xx.ejs",
       "type": "contains"
     },
     {
@@ -4182,11 +3078,6 @@
       "type": "contains"
     },
     {
-      "source": "examples/route-separation/public",
-      "target": "examples/route-separation/public/style.css",
-      "type": "contains"
-    },
-    {
       "source": "examples/route-separation",
       "target": "examples/route-separation/site.js",
       "type": "contains"
@@ -4203,47 +3094,12 @@
     },
     {
       "source": "examples/route-separation/views",
-      "target": "examples/route-separation/views/footer.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/route-separation/views",
-      "target": "examples/route-separation/views/header.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/route-separation/views",
-      "target": "examples/route-separation/views/index.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/route-separation/views",
       "target": "examples/route-separation/views/posts",
-      "type": "contains"
-    },
-    {
-      "source": "examples/route-separation/views/posts",
-      "target": "examples/route-separation/views/posts/index.ejs",
       "type": "contains"
     },
     {
       "source": "examples/route-separation/views",
       "target": "examples/route-separation/views/users",
-      "type": "contains"
-    },
-    {
-      "source": "examples/route-separation/views/users",
-      "target": "examples/route-separation/views/users/edit.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/route-separation/views/users",
-      "target": "examples/route-separation/views/users/index.ejs",
-      "type": "contains"
-    },
-    {
-      "source": "examples/route-separation/views/users",
-      "target": "examples/route-separation/views/users/view.ejs",
       "type": "contains"
     },
     {
@@ -4264,11 +3120,6 @@
     {
       "source": "examples/search/public",
       "target": "examples/search/public/client.js",
-      "type": "contains"
-    },
-    {
-      "source": "examples/search/public",
-      "target": "examples/search/public/index.html",
       "type": "contains"
     },
     {
@@ -4304,16 +3155,6 @@
     {
       "source": "examples/static-files/public",
       "target": "examples/static-files/public/css",
-      "type": "contains"
-    },
-    {
-      "source": "examples/static-files/public/css",
-      "target": "examples/static-files/public/css/style.css",
-      "type": "contains"
-    },
-    {
-      "source": "examples/static-files/public",
-      "target": "examples/static-files/public/hello.txt",
       "type": "contains"
     },
     {
@@ -4369,11 +3210,6 @@
     {
       "source": "examples/view-locals",
       "target": "examples/view-locals/views",
-      "type": "contains"
-    },
-    {
-      "source": "examples/view-locals/views",
-      "target": "examples/view-locals/views/index.ejs",
       "type": "contains"
     },
     {
@@ -4638,22 +3474,7 @@
     },
     {
       "source": "test/fixtures",
-      "target": "test/fixtures/% of dogs.txt",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures",
-      "target": "test/fixtures/.name",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures",
       "target": "test/fixtures/blog",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures/blog",
-      "target": "test/fixtures/blog/index.html",
       "type": "contains"
     },
     {
@@ -4662,38 +3483,8 @@
       "type": "contains"
     },
     {
-      "source": "test/fixtures/blog/post",
-      "target": "test/fixtures/blog/post/index.tmpl",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures",
-      "target": "test/fixtures/broken.send",
-      "type": "contains"
-    },
-    {
       "source": "test/fixtures",
       "target": "test/fixtures/default_layout",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures/default_layout",
-      "target": "test/fixtures/default_layout/name.tmpl",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures/default_layout",
-      "target": "test/fixtures/default_layout/user.tmpl",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures",
-      "target": "test/fixtures/email.tmpl",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures",
-      "target": "test/fixtures/empty.txt",
       "type": "contains"
     },
     {
@@ -4702,33 +3493,8 @@
       "type": "contains"
     },
     {
-      "source": "test/fixtures/local_layout",
-      "target": "test/fixtures/local_layout/user.tmpl",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures",
-      "target": "test/fixtures/name.tmpl",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures",
-      "target": "test/fixtures/name.txt",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures",
-      "target": "test/fixtures/nums.txt",
-      "type": "contains"
-    },
-    {
       "source": "test/fixtures",
       "target": "test/fixtures/pets",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures/pets",
-      "target": "test/fixtures/pets/names.txt",
       "type": "contains"
     },
     {
@@ -4737,43 +3503,8 @@
       "type": "contains"
     },
     {
-      "source": "test/fixtures/snow ☃",
-      "target": "test/fixtures/snow ☃/.gitkeep",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures",
-      "target": "test/fixtures/todo.html",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures",
-      "target": "test/fixtures/todo.txt",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures",
-      "target": "test/fixtures/user.html",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures",
-      "target": "test/fixtures/user.tmpl",
-      "type": "contains"
-    },
-    {
       "source": "test/fixtures",
       "target": "test/fixtures/users",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures/users",
-      "target": "test/fixtures/users/index.html",
-      "type": "contains"
-    },
-    {
-      "source": "test/fixtures/users",
-      "target": "test/fixtures/users/tobi.txt",
       "type": "contains"
     },
     {
